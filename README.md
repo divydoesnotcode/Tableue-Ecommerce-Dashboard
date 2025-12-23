@@ -61,7 +61,7 @@ The dashboard is designed to be **interactive**, allowing exploration by time, p
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard_screenshot.png)
+![Dashboard Screenshot](Screenshot/Dashboard.png)
 
 ---
 
